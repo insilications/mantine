@@ -12,7 +12,7 @@
     "module": "ESNext",
     "moduleResolution": "Node",
     "jsx": "react",
-    "emitDeclarationOnly": true,
+    "noEmit": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
